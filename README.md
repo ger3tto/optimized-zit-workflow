@@ -38,6 +38,6 @@ Final output: ~2419x3629.
 
 # Custom nodes used:
 
-ComfyUI-GGUF (ID 8)
-ComfyUI Impact Pack + Subpack (IDs 11 and 203)
-rgthree-comfy (ID 14)
+- ComfyUI-GGUF (ID 8)
+- ComfyUI Impact Pack + Subpack (IDs 11 and 203)
+- rgthree-comfy (ID 14)
