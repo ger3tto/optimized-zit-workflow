@@ -24,10 +24,10 @@ Final output: ~2419x3629.
 
 # Where files go:
 
-Z-Image-Turbo goes in /models/unet
-ae.sft goes into /models/vae
-Qwen3 4B goes into /models/clip
-The rest is downloaded inside ComfyUI Manager.
+- Z-Image-Turbo goes in /models/unet
+- ae.sft goes into /models/vae
+- Qwen3 4B goes into /models/clip
+- The rest is downloaded inside ComfyUI Manager.
 
 # Requirements
 
